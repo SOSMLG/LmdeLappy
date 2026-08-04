@@ -1,6 +1,0 @@
-sudo apt eza zoxide -y
-pip install matplotlib
-pip install numpy 
-pip install scipy
-sudo apt autoremove
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
